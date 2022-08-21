@@ -1,5 +1,3 @@
-### Olá, meu nome é Paulo e atualmente estou cursando o 6º período de Ciência da Computação na UFV.
-
 <div align="center">
   <a href="https://github.com/PauloDezingrini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulodezingrini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
